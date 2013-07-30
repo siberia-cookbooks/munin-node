@@ -1,3 +1,4 @@
+name             "munin-node"
 maintainer       "Jacques Marneweck"
 maintainer_email "jacques@powertrip.co.za"
 license          "All rights reserved"
